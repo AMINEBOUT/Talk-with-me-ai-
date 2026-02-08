@@ -1,5 +1,5 @@
 body {
-    background-color:rgb(13, 17, 23);
+    background-color:rgb(21, 21, 21);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:aliceblue;
 }
@@ -15,7 +15,7 @@ input {
     padding: 10px;
     font-size: 16px;
     width:70%;
-    background-color:rgb(32, 33, 35);
+    background-color:rgb(30, 30, 30);
     color:rgb(161, 186, 186);
     font-weight: bolder;
     border-radius:12px;

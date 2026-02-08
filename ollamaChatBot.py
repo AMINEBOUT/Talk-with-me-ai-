@@ -19,9 +19,8 @@ def chatbot(message=None):
     },
 
   ])
+  #? or access fields directly from the response object: print(response.message.content)
   print(response['message']['content'])
-  # or access fields directly from the response object
-  print(response.message.content)
 
 if __name__=="__main__":
   main()

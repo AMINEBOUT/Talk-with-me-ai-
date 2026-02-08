@@ -6,4 +6,4 @@ A web-based application that enables users to interact with an AI across multipl
 
 ### Tools used
 
-* I used the ollama chat bot for the chating model
+* I used the ollama chat bot for the chating model.
